@@ -1,0 +1,40 @@
+
+
+#standard-basic::placeholder{
+    color:rgb(0, 0, 0);
+}
+
+#color{
+    color: black;
+}
+
+#email-helper{
+    color:rgb(0, 0, 0);
+}
+#name-helper{
+    color: black;    
+}
+#lastname-helper{
+    color:black;
+}
+
+#first-name-helper{
+    color:rgb(0, 0, 0);
+}
+
+
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url('../images/lock.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+
+
+.color{
+    color: red;
+}
